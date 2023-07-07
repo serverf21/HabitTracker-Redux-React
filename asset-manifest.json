@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/serverf21/HabitTracker-Redux-React/static/css/main.7495d491.css",
+    "main.js": "/serverf21/HabitTracker-Redux-React/static/js/main.c0b1834b.js",
+    "index.html": "/serverf21/HabitTracker-Redux-React/index.html",
+    "main.7495d491.css.map": "/serverf21/HabitTracker-Redux-React/static/css/main.7495d491.css.map",
+    "main.c0b1834b.js.map": "/serverf21/HabitTracker-Redux-React/static/js/main.c0b1834b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7495d491.css",
+    "static/js/main.c0b1834b.js"
+  ]
+}
